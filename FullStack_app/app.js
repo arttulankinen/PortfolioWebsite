@@ -29,7 +29,6 @@ app.use(express.json());
 app.use(cors());
 app.use(bodyParser.json());
 
-
 // Routes
 app.use('/api/auth', require('./routes/registerRoutes'));
 app.use('/api/auth', require('./routes/loginRoutes'))
