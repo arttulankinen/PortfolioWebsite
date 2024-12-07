@@ -4,7 +4,8 @@ function Yhteystiedot() {
   const [dataEmail, setDataEmail] = useState('');
   const [dataOtsikko, setDataOtsikko] = useState('');
   const [dataViesti, setDataViesti] = useState('');
-  const BaseURL = 'http://localhost:10000'
+  const BaseURL = process.env.BaseURL;
+  
   const handleEmail = (e) =>{
     setDataEmail(e.target.value);
     console.log(e.target.value);

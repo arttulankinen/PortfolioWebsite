@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.448d98d1.css",
-    "main.js": "/static/js/main.e6b50797.js",
+    "main.js": "/static/js/main.b308417e.js",
     "static/media/Rubik.ttf": "/static/media/Rubik.3a4acc0356c6ea73f2c3.ttf",
     "static/media/storm.ttf": "/static/media/storm.ba6f510fcb5fb5582ffb.ttf",
     "static/media/ristinollla.PNG": "/static/media/ristinollla.eb61c30f51b0a598ebe2.PNG",
@@ -10,10 +10,10 @@
     "static/media/näyttö.png": "/static/media/näyttö.9934ce110c947e4e5b30.png",
     "index.html": "/index.html",
     "main.448d98d1.css.map": "/static/css/main.448d98d1.css.map",
-    "main.e6b50797.js.map": "/static/js/main.e6b50797.js.map"
+    "main.b308417e.js.map": "/static/js/main.b308417e.js.map"
   },
   "entrypoints": [
     "static/css/main.448d98d1.css",
-    "static/js/main.e6b50797.js"
+    "static/js/main.b308417e.js"
   ]
 }

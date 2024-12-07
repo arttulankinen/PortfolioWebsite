@@ -8,7 +8,7 @@ function Register() {
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const BaseURL = 'http://localhost:10000'
+  const BaseURL = process.env.BaseURL;
 
   const handleRegister = async (e) => {
     e.preventDefault();
