@@ -1,0 +1,12 @@
+# Ignore all node_modules directories recursively
+node_modules/
+
+# Ignore all .env files recursively
+.env
+
+# Ignore package-lock.json in all folders
+package-lock.json
+
+# Logs and temp files
+*.log
+.DS_Store
