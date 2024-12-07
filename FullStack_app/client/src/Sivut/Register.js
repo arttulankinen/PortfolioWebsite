@@ -8,7 +8,7 @@ function Register() {
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const BaseURL = 'http://localhost:10000'
+  const BaseURL = 'https://artunportfolio.onrender.com/'
 
   const handleRegister = async (e) => {
     e.preventDefault();
