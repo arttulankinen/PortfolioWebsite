@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.448d98d1.css",
+    "main.js": "/static/js/main.e6b50797.js",
+    "static/media/Rubik.ttf": "/static/media/Rubik.3a4acc0356c6ea73f2c3.ttf",
+    "static/media/storm.ttf": "/static/media/storm.ba6f510fcb5fb5582ffb.ttf",
+    "static/media/ristinollla.PNG": "/static/media/ristinollla.eb61c30f51b0a598ebe2.PNG",
+    "static/media/business.jpg": "/static/media/business.88266fe8958104e789e3.jpg",
+    "static/media/face.jpg": "/static/media/face.efa4481230ba6242f419.jpg",
+    "static/media/näyttö.png": "/static/media/näyttö.9934ce110c947e4e5b30.png",
+    "index.html": "/index.html",
+    "main.448d98d1.css.map": "/static/css/main.448d98d1.css.map",
+    "main.e6b50797.js.map": "/static/js/main.e6b50797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448d98d1.css",
+    "static/js/main.e6b50797.js"
+  ]
+}
