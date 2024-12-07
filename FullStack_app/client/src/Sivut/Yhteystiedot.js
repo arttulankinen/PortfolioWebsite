@@ -4,7 +4,7 @@ function Yhteystiedot() {
   const [dataEmail, setDataEmail] = useState('');
   const [dataOtsikko, setDataOtsikko] = useState('');
   const [dataViesti, setDataViesti] = useState('');
-  const BaseURL = "https://artunportfolio.onrender.com/";
+  const BaseURL = "https://artunportfolio.onrender.com";
   
   const handleEmail = (e) =>{
     setDataEmail(e.target.value);
