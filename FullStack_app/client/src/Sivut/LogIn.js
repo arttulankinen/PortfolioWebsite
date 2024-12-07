@@ -7,7 +7,7 @@ function LogIn() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const navigate = useNavigate();
-  const BaseURL = process.env.BaseURL;
+  const BaseURL = "https://artunportfolio.onrender.com/";
   
   const handleLogin = async (e) => {
     e.preventDefault();
