@@ -46,5 +46,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "BaseURL": "http://localhost:10000"
+  "BaseURL": "https://artunportfolio.onrender.com/"
 }
